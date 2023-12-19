@@ -1,5 +1,8 @@
 # Full-Stack-TTS-STT
 
+Frontend : ReactJS Bootstrap
+Backend : Python Flask
+
 ## Backend
 
 Buka folder backend di terminal dan jalankan :
@@ -8,10 +11,22 @@ Buka folder backend di terminal dan jalankan :
 pip install -r requirements.txt
 ```
 
-Cara jalankan :
+Cara jalankan program :
 
 ```
 python app.py
 ```
 
 ## Frontend
+
+Buka folder frontend di terminal dan jalankan :
+
+```
+npm install
+```
+
+Cara jalankan program :
+
+```
+npm start
+```
