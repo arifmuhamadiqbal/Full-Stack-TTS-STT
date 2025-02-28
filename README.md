@@ -18,7 +18,7 @@ Cara jalankan program :
 python app.py
 ```
 
-## Frontend
+## How to Run Frontend
 
 Buka folder frontend di terminal dan jalankan :
 
