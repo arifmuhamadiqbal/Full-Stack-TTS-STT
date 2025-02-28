@@ -4,7 +4,7 @@ Frontend : ReactJS Bootstrap
 
 Backend : Python Flask
 
-## Backend
+## How to Run Backend 
 
 Buka folder backend di terminal dan jalankan :
 
